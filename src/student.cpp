@@ -120,7 +120,6 @@ bool kurungSeimbang(const string& ekspresi) {
 
             }
         }
-    }
     return isEmpty(s);
 }
 
